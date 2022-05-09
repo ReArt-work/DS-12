@@ -12,5 +12,3 @@ if login == "login":
         print("Passwornd is wrong")
 else:
     print("Login is wrong")
-
-
